@@ -1,4 +1,4 @@
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="left" style="width: 100%" />  
+  
   
 
 ### <div align="center">I'm a full-time full-stack freelance developer 👨‍💻 working remotely since 2016 🚀</div>  
