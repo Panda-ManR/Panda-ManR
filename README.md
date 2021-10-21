@@ -1,7 +1,7 @@
   
   
 
-### <div align="center">I'm a full-time full-stack freelance developer 👨‍💻 working remotely since 2016 🚀</div>  
+### <div align="center">I'm a full-time Smart contract and full-stack developer 👨‍💻 working remotely since 2016 🚀</div>  
   
 
 - 🔭 I’m currently working on [Github Profilinator](https://github.com/Panda-ManR/)  
